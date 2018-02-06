@@ -6,3 +6,7 @@ Find Matatu stages within Nairobi CBD
 3. Change url on filtered.js
 4. Upload to server
 5. Have fun!!
+<br><br>
+TODO:<br>
+1. Add location tracking<br>
+2. Add directions from user location to stage
